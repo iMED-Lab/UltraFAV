@@ -72,6 +72,14 @@ ultrafav_predict -i in_dir -o out_dir -d 88 -c 2d -f 0
 
 **Note:** The checkpoint with the best performance is automatically selected as the default for prediction.
 
+### Citation
+
+```
+Paper is under review, coming soon
+```
+
+
+
 ## Acknowledgements
 
 We would like to extend our gratitude to the following contributors and organizations whose support has been instrumental in the development of the UltraFAV framework:
