@@ -1,4 +1,7 @@
-# UltraFAV Framework for Retinal Artery-Vein Segmentation
+<p align="center">
+ <img width="300px" src="assets/ultrafav_logo.png" align="center" alt="UltraFAV"/>
+    <h1 align="center">UltraFAV for Artery Vein Segmentation</h1>
+</p>
 
 The **UltraFAV framework** provides a robust and efficient solution for the segmentation of retinal arteries and veins.
 
