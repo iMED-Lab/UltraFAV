@@ -76,13 +76,18 @@ ultrafav_predict -i in_dir -o out_dir -d 88 -c 2d -f 0
 
 **Note:** The checkpoint with the best performance is automatically selected as the default for prediction.
 
-### Citation
+## Citation
 
 ```
 Paper is under review, coming soon
 ```
 
+## Links
 
+- [PRIME](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset)
+- [AV-WIDE](https://people.duke.edu/~sf59/Estrada_TMI_2015_dataset.htm)
+- [LES-AV](https://figshare.com/articles/dataset/LES-AV_dataset/11857698)
+- [HRF](https://www5.cs.fau.de/research/data/fundus-images/)
 
 ## Acknowledgements
 
