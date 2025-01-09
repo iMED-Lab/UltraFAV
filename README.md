@@ -2,10 +2,11 @@
  <img width="300px" src="assets/ultrafav_logo.png" align="center" alt="UltraFAV"/>
     <h1 align="center">UltraFAV for Artery Vein Segmentation</h1>
 </p>
+<p align="center">
+ <img width="800px" src="assets/segav.png" align="center" alt="Segmentation results"/>
+</p>
 
 The **UltraFAV framework** provides a robust and efficient solution for the segmentation of retinal arteries and veins.
-
----
 
 ## Installation
 
