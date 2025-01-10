@@ -44,7 +44,7 @@ Install UltraFAV in editable mode:
 pip install -e .
 ```
 
-## :arrow_forward: Usage
+## :traffic_light: Usage
 
 ### 1. Run Training
 
