@@ -8,9 +8,9 @@
 
 The **UltraFAV framework** provides a robust and efficient solution for the segmentation of retinal arteries and veins.
 
-## Installation
+## :rocket:Installation
 
-### Step 1: Clone the Repository
+### :one: Clone the Repository
 
 Download the repository and navigate to the project directory:
 
@@ -19,7 +19,7 @@ git clone <repository_url>
 cd UltraFAV
 ```
 
-### Step 2: Create a Conda Environment
+### :two: Create a Conda Environment
 
 Create and activate a dedicated Conda environment for the framework:
 
@@ -28,7 +28,7 @@ conda create -n ultrafav python=3.11 -y
 conda activate ultrafav
 ```
 
-### Step 3: Install nnUNetv2
+### :three: Install nnUNetv2
 
 Install the nnUNetv2 library, which is a prerequisite for the UltraFAV framework:
 
@@ -36,7 +36,7 @@ Install the nnUNetv2 library, which is a prerequisite for the UltraFAV framework
 pip install nnunetv2
 ```
 
-### Step 4: Install the UltraFAV Framework
+### :four: Install the UltraFAV Framework
 
 Install UltraFAV in editable mode:
 
@@ -44,7 +44,7 @@ Install UltraFAV in editable mode:
 pip install -e .
 ```
 
-## Usage
+## :arrow_forward: Usage
 
 ### 1. Run Training
 
@@ -76,20 +76,20 @@ ultrafav_predict -i in_dir -o out_dir -d 88 -c 2d -f 0
 
 **Note:** The checkpoint with the best performance is automatically selected as the default for prediction.
 
-## Citation
+## :bookmark: Citation
 
 ```
 Paper is under review, coming soon
 ```
 
-## Links
+## :link: Links
 
 - [PRIME](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset)
 - [AV-WIDE](https://people.duke.edu/~sf59/Estrada_TMI_2015_dataset.htm)
 - [LES-AV](https://figshare.com/articles/dataset/LES-AV_dataset/11857698)
 - [HRF](https://www5.cs.fau.de/research/data/fundus-images/)
 
-## Acknowledgements
+## :heart: Acknowledgements
 
 We would like to extend our gratitude to the following contributors and organizations whose support has been instrumental in the development of the UltraFAV framework:
 
