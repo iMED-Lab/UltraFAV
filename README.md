@@ -3,7 +3,7 @@
     <h1 align="center">UltraFAV for Artery Vein Segmentation</h1>
 </p>
 <p align="center">
-<img alt="Ubuntu & Python 3.11" src="https://img.shields.io/badge/Ubuntu-Python3.11-blue" />   
+<img alt="Ubuntu & Python 3.11" src="https://img.shields.io/badge/Ubuntu-Python3.11-blue"/>
 </p>
 <p align="center">
  <img width="800px" src="assets/segav.png" align="center" alt="Segmentation results"/>
