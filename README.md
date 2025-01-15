@@ -5,8 +5,9 @@
 <p align="center">
  <img width="800px" src="assets/segav.png" align="center" alt="Segmentation results"/>
 </p>
-
 The **UltraFAV framework** provides a robust and efficient solution for the segmentation of retinal arteries and veins.
+
+![](https://img.shields.io/badge/Ubuntu-Python3.11-blue)
 
 ## :rocket:Installation
 
