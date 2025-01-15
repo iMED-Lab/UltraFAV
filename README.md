@@ -10,16 +10,16 @@ The **UltraFAV framework** provides a robust and efficient solution for the segm
 
 ## :rocket:Installation
 
-### :one: Clone the Repository
+### 1.​ Clone the Repository
 
 Download the repository and navigate to the project directory:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/iMED-Lab/UltraFAV.git
 cd UltraFAV
 ```
 
-### :two: Create a Conda Environment
+### 2. ​Create a Conda Environment
 
 Create and activate a dedicated Conda environment for the framework:
 
@@ -28,7 +28,7 @@ conda create -n ultrafav python=3.11 -y
 conda activate ultrafav
 ```
 
-### :three: Install nnUNetv2
+### 3. ​Install nnUNetv2
 
 Install the nnUNetv2 library, which is a prerequisite for the UltraFAV framework:
 
@@ -36,7 +36,7 @@ Install the nnUNetv2 library, which is a prerequisite for the UltraFAV framework
 pip install nnunetv2
 ```
 
-### :four: Install the UltraFAV Framework
+### 4. Install the UltraFAV Framework
 
 Install UltraFAV in editable mode:
 
