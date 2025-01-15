@@ -1,0 +1,37 @@
+[project]
+name = "ultrafav"
+version = "1.0"
+requires-python = ">=3.9"
+description = "UltraFAV is an nnU-Net-based framework."
+keywords = [
+    'deep learning',
+    'image segmentation',
+    'semantic segmentation',
+    'medical image analysis',
+    'medical image segmentation',
+    'nnU-Net',
+    'nnunet'
+]
+dependencies = [
+    "einops",
+]
+
+[project.scripts]
+ultrafav_train = "ultrafav.run.run_training:run_training_entry"
+ultrafav_predict = "ultrafav.inference.predict_from_raw_data:predict_entry_point"
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "ruff",
+    "pre-commit"
+]
+
+[build-system]
+requires = ["setuptools>=67.8.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.codespell]
+skip = '.git,*.pdf,*.svg'
+#
+# ignore-words-list = ''
