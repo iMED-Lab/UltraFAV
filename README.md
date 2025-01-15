@@ -7,11 +7,9 @@
 </p>
 The **UltraFAV framework** provides a robust and efficient solution for the segmentation of retinal arteries and veins.
 
-
+## :rocket:Installation
 
 ![](https://img.shields.io/badge/Ubuntu-Python3.11-blue)
-
-## :rocket:Installation
 
 ### 1.​ Clone the Repository
 
